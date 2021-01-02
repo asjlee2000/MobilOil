@@ -31,3 +31,5 @@ It works by:
 1. Reading in the PDF by prompting the user to enter in the name of the file.
 2. Asking for the date (allows for custom dates in the filenames instead of today's date).
 3. Writing single-page PDFs for each employee with titles formatted: "Payroll_[name]_[custom date].pdf".
+
+Any future updates will be made to pdf_split.
